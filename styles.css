@@ -29,7 +29,7 @@ h2, h3 {
 }
 
 .btn {
-  margin: 25px;
+  margin: 25px auto;
   display: inline-block;
   height: 200px;
   width: 200px;
